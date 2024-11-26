@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/circle_bg"/>
+    <item android:drawable="@drawable/info_fill0_wght400_grad0_opsz48"
+        android:gravity="center"
+        android:width="42dp" android:height="42dp"/>
+
+</layer-list>
